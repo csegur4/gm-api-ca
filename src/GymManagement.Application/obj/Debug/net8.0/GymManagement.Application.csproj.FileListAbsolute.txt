@@ -1,0 +1,15 @@
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.deps.json
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Application.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/bin/Debug/net8.0/GymManagement.Domain.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.AssemblyReference.cache
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfoInputs.cache
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.AssemblyInfo.cs
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.CoreCompileInputs.cache
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.csproj.CopyComplete
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/refint/GymManagement.Application.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/ref/GymManagement.Application.dll

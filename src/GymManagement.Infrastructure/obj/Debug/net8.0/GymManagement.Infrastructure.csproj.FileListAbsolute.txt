@@ -1,0 +1,17 @@
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/bin/Debug/net8.0/GymManagement.Infrastructure.deps.json
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/bin/Debug/net8.0/GymManagement.Infrastructure.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/bin/Debug/net8.0/GymManagement.Infrastructure.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/bin/Debug/net8.0/GymManagement.Application.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/bin/Debug/net8.0/GymManagement.Domain.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/bin/Debug/net8.0/GymManagement.Application.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/bin/Debug/net8.0/GymManagement.Domain.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.AssemblyInfo.cs
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.csproj.CopyComplete
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/refint/GymManagement.Infrastructure.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/GymManagement.Infrastructure.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/Debug/net8.0/ref/GymManagement.Infrastructure.dll

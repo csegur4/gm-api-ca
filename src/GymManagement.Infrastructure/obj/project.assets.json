@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "GymManagement.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "GymManagement.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GymManagement.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymManagement.Application.dll": {}
+        }
+      },
+      "GymManagement.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/GymManagement.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GymManagement.Application/1.0.0": {
+      "type": "project",
+      "path": "../GymManagement.Application/GymManagement.Application.csproj",
+      "msbuildProject": "../GymManagement.Application/GymManagement.Application.csproj"
+    },
+    "GymManagement.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GymManagement.Domain/GymManagement.Domain.csproj",
+      "msbuildProject": "../GymManagement.Domain/GymManagement.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "GymManagement.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/carlossegura/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj",
+      "projectName": "GymManagement.Infrastructure",
+      "projectPath": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/GymManagement.Infrastructure.csproj",
+      "packagesPath": "/Users/carlossegura/.nuget/packages/",
+      "outputPath": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Infrastructure/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/carlossegura/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/GymManagement.Application.csproj": {
+              "projectPath": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/GymManagement.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
