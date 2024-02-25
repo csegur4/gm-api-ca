@@ -13,3 +13,4 @@
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/refint/GymManagement.Application.dll
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.pdb
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/ref/GymManagement.Application.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/obj/Debug/net8.0/GymManagement.Application.sourcelink.json

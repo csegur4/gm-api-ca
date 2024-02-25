@@ -9,3 +9,4 @@
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Contracts/obj/Debug/net8.0/refint/GymManagement.Contracts.dll
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.pdb
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Contracts/obj/Debug/net8.0/ref/GymManagement.Contracts.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Contracts/obj/Debug/net8.0/GymManagement.Contracts.sourcelink.json

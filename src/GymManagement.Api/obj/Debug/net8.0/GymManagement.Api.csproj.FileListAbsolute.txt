@@ -37,3 +37,7 @@
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/obj/Debug/net8.0/ref/GymManagement.Api.dll
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.dll
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Contracts.pdb
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/obj/Debug/net8.0/GymManagement.Api.sourcelink.json
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Infrastructure.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Infrastructure.pdb
