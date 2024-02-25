@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "6A6Lq9SW6KIYe+eA/Pq38oFNr48cC1kHDN9G6nooMyZyraDW+/R4BeAAvW7WWItfCMVYEyQ2MZS0FDoc5oWb3A==",
+  "dgSpecHash": "LeyS8VQgDYZ9GTy/ywp75TuITHaY+0CJx/QTsP9EKTwIL30P8BhfWQ+E+l3E/wGPVgzrICIzozh1I+Tm8yie+w==",
   "success": true,
   "projectFilePath": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/GymManagement.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/carlossegura/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/carlossegura/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512",
