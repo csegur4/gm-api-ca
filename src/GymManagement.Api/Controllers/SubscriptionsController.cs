@@ -22,13 +22,25 @@ public class SubscriptionsController : Controller
             request.SubscriptionType.ToString(),
             request.AdminId); 
         
-        var subscriptionId = await _mediator.Send(command);
+        //Used Mediator instead Services in App Layer (/Services) 
+        //Also, used Result Pattern by ErrorOr Lib
+        var createSubscription = await _mediator.Send(command);
         // var subscriptionId = _subscriptionsWriteService.CreateSubscription(
         //     request.SubscriptionType.ToString(), 
         //     request.Admin);
 
-        var response = new SubscriptionResponse(subscriptionId, request.SubscriptionType);
+        // if (createSubscription.IsError)
+        // {
+        //     return Problem();
+        // }
+        // var response = new SubscriptionResponse(
+        //     createSubscription.Value, 
+        //     request.SubscriptionType);
+        // return Ok(response);
         
-        return Ok(response);
+        //More efficiently 
+        return createSubscription.MatchFirst(
+            guid => Ok(new SubscriptionResponse(guid, request.SubscriptionType)),
+            error => Problem());
     }
 }

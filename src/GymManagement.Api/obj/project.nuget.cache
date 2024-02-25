@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "LeyS8VQgDYZ9GTy/ywp75TuITHaY+0CJx/QTsP9EKTwIL30P8BhfWQ+E+l3E/wGPVgzrICIzozh1I+Tm8yie+w==",
+  "dgSpecHash": "DZbrDtSQXSlNNwNfOL3tzsMCx+Sk8ZaxghV3muo40fyWeeV1zjl2zc+vGP89rVF0NZgOHVb53MZyCYgYOw0FqA==",
   "success": true,
   "projectFilePath": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/GymManagement.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/carlossegura/.nuget/packages/erroror/1.10.0/erroror.1.10.0.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/microsoft.aspnetcore.openapi/8.0.0/microsoft.aspnetcore.openapi.8.0.0.nupkg.sha512",

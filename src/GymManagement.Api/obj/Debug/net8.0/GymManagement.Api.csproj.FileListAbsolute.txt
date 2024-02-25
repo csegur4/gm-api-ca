@@ -43,3 +43,4 @@
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/GymManagement.Infrastructure.pdb
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/MediatR.dll
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/MediatR.Contracts.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Api/bin/Debug/net8.0/ErrorOr.dll

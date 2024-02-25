@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "X/dKxUy3DtheNZXzGmuGDj3DrDx2NsJynNUaVrejIac+KbgGVSgItEfZTPzuGRTZng31ZYcc8BbgpXiFy4b3ig==",
+  "dgSpecHash": "RqvyN/wT53dTxASGUcsh8Xjt6eJVdGBfDWiQXWlknJAvLY20rcHNz2r17JC4+lWrxHPdO9Zjiqw17zZabeREpg==",
   "success": true,
   "projectFilePath": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/GymManagement.Application.csproj",
   "expectedPackageFiles": [
+    "/Users/carlossegura/.nuget/packages/erroror/1.10.0/erroror.1.10.0.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
     "/Users/carlossegura/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512"
