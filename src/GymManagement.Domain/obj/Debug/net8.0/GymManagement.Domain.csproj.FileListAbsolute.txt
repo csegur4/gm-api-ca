@@ -9,3 +9,4 @@
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Domain/obj/Debug/net8.0/refint/GymManagement.Domain.dll
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.pdb
 /Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Domain/obj/Debug/net8.0/ref/GymManagement.Domain.dll
+/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Domain/obj/Debug/net8.0/GymManagement.Domain.sourcelink.json

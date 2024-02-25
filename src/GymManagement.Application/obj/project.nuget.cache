@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "cDGo6yHGs1tlru4pwmCOiuXJ4RUJIpkwqoaUfs8FsGSgEgyMHwgEM1tHnsT5W3zi74jWweWGc+x22RiJGoFiSQ==",
+  "dgSpecHash": "geVymfcd8rSjNbCMfKo2Wcr8G/G1mVBuSFXRkV2UjTt3Ra+t7qOnXLWchWtMaMO/NZVyPJP8kG5fDkOdSdL6YQ==",
   "success": true,
   "projectFilePath": "/Users/carlossegura/Desktop/ASPNET /ga-ca/src/GymManagement.Application/GymManagement.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/carlossegura/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.0-preview.1.24080.9/microsoft.extensions.dependencyinjection.abstractions.9.0.0-preview.1.24080.9.nupkg.sha512"
+  ],
   "logs": []
 }
